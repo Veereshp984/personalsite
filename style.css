@@ -1,0 +1,78 @@
+
+ *{
+  margin:0;
+  padding: 0;
+ }
+ .top-container{
+  background-image: url(./keyboard-498396_1280.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+ }
+ .text{
+  font-family: 'Satisfy', cursive;
+  font-stretch: expanded;
+  position: relative;
+  margin-left: 570px;
+  margin-top: 200px;
+ }
+ h1{
+  font-size: 8rem;
+  color: rgb(57, 118, 231);
+ }
+ .mid-container{
+  background-color: rgb(224, 224, 242);
+  height: 100vh;
+  display: flex;
+  gap: 20px;
+  
+ }
+ .about{
+  position: relative;
+  margin-top: 100px;
+  display: inline-block;
+ }
+ .paragraph{
+  float: right;
+  width: 500px;
+ }
+ .bottom-container{
+  background-color: rgb(224, 224, 242);
+  height: 100vh;
+ }
+ .row-featurette{
+    display: flex;
+    justify-content: flex-end;
+ }
+.col-md-5{
+    position: relative;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(57, 118, 231);
+    text-align: left;
+    position: relative;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.image{
+    position: relative;
+    margin-left: 370px;
+}
+.row{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    width: 100%;
+}
+.col{
+    display: flex;
+}
+
+
